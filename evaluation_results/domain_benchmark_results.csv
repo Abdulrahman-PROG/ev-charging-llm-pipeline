@@ -1,0 +1,34 @@
+question_id,question,base_response,ft_response,base_keyword_coverage,ft_keyword_coverage,semantic_similarity,expected_keywords
+1,What are the different types of EV charging connectors?,Response : How about a different type of charging connector?,"What type of charging connectors are used for charging systems.
+### Response:
+Electric vehicles are often used by charging systems for EV installations and electric vehicles are often used for charging systems for infrastructure infrastructure and transportation.
+### Response:
+The battery pack is open and there is an open position.
+### Response:
+Electric vehicles are often used for charging systems and infrastructure.",0.3333333333333333,0.3333333333333333,0.5553871,"['Type 1', 'Type 2', 'CHAdeMO', 'CCS', 'connector', 'charging']"
+2,How long does it take to charge an electric vehicle?,How long does it take to take a car?,"Tell me about electric vehicles or charging stations and charging stations, 
+
+### Response:
+Tell me about electric vehicles and charging stations. 
+### Response:
+The charging station is not charging the charger and charging stations are not charging the vehicle nor charging the vehicle nor charging the charging station nor charging the vehicle nor charging the charging station nor charging the charging station nor charging the vehicle nor charging the charging station nor charging the charging station nor charging the charging station nor charging the charging station nor charging stations",0.0,0.16666666666666666,0.08415048,"['time', 'hours', 'fast', 'slow', 'charging', 'battery']"
+3,What is the difference between AC and DC charging?,What is the difference between AC and DC charging?,"The charging stations have different charging stations charging stations, and since charging stations are different than the charging stations in the same location the charging stations are different and have different characteristics and characteristics, it may be more effective to use the charging stations at different locations or locations to ensure compatibility with certain systems.
+### Response:
+We've been testing this approach with various locations in the field and different regions of the Netherlands and Belgium and the Netherlands since the implementation of the electric grid in the Netherlands and Belgium's national",0.5,0.3333333333333333,0.377176,"['AC', 'DC', 'alternating', 'direct', 'current', 'charging']"
+4,Where can I find public charging stations?,Public charging stations.,"The charging stations are installed at all times
+
+Public charging stations are installed at all times.
+
+ Response:
+The charging stations are installed at all times.",0.3333333333333333,0.3333333333333333,0.62757856,"['public', 'stations', 'location', 'map', 'app', 'network']"
+5,What is fast charging for electric vehicles?,What is fast charging?,"The fastest charging method is the standard charging method for many vehicles that use electric vehicles, namely the Model S Model S Electric Vehicle, the Tesla Model S Tesla S Electric Vehicle, and the Tesla Model S Model S Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle Electric, Electric Vehicle Electric Vehicle Electric Vehicle Electric Vehicle",0.3333333333333333,0.3333333333333333,0.63658667,"['fast', 'rapid', 'DC', 'charging', 'quick', 'speed']"
+6,How much does it cost to charge an electric vehicle?,How much does it cost to fix this?,Electric vehicles are typically not covered by the liability policy.,0.16666666666666666,0.0,0.05573091,"['cost', 'price', 'money', 'charging', 'electricity', 'rate']"
+7,Can I charge my EV at home?,Can I charge my EV at home?,"The EV charging station is located in a single grid, the other EV charging stations are located in a different grid and therefore can be accessed by multiple people using the same station access point",0.2,0.2,0.45306256,"['home', 'residential', 'charging', 'installation', 'outlet']"
+8,What is charging infrastructure?,what is the value of such infrastructure?,"What is charging infrastructure for the network structure of the city, or the road network network infrastructure in the city, or the city street network network infrastructure for the city and highway network networks of the city, or the network network infrastructure available to the city, or the city, or the city street network infrastructure for the city and road network network infrastructure for the city and municipal network networks of the city, or the city network infrastructure for the city network infrastructure, or the city network infrastructure for the city and city",0.2,0.6,0.4079205,"['infrastructure', 'network', 'stations', 'grid', 'charging']"
+9,How do I install a home charging station?,How do you install a home charging station?,"What is the position of the power station on the outside of your house in the near vicinity of the power station fire station in the fire station building to be known as the fire station fire or fire station firestation fire station fire station?
+:
+The Fire Station Fire Station Fire station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire Station Fire",0.6666666666666666,0.16666666666666666,0.269131,"['install', 'home', 'electrician', 'charging', 'station', 'setup']"
+10,What are the benefits of electric vehicle charging?,That's not how this works,"The electric vehicle charging system is typically designed to provide a reliable reliable and reliable electricity source for the city's public transportation infrastructure and charging service and for the energy and infrastructure of the city,
+in specific areas of service,
+In the city of San Francisco or nearby city areas,
+The city of San Francisco or nearby city areas must be built to ensure that the city's electric vehicles are able to utilize the city's electric transportation infrastructure.",0.0,0.16666666666666666,0.018208815,"['benefits', 'advantages', 'clean', 'environment', 'cost', 'charging']"

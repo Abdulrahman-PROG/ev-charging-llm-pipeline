@@ -1,0 +1,250 @@
+test_id,instruction,reference,base_response,ft_response,base_rouge1,base_rouge2,base_rougeL,ft_rouge1,ft_rouge2,ft_rougeL,base_bleu,ft_bleu,base_semantic,ft_semantic
+1,Tell me about electric vehicles and charging.,"However, the high-voltage
+battery system can be damaged, preventing access to the battery management
+system or to the discharge ports. 84
+The following methods (non-exhaustive) are used by firefighters currently:
+83 (ARUP, 2023)
+84 (Hynynen et al. , 2023)
+721.  Using different kind of blankets for covering a fire source in order to avoid
+the fire spread out to surrounding vehicles or infrastructure
+2.  Using water or other standard agents for electric vehicle fires.",What about an ETA?,"Tell me about electric vehicles and charging.
+### Response:
+Tell me about charging.
+
+### Response:
+Tell me about electric vehicles and charging.
+
+
+### Response:
+Tell me about electricity.
+### Response:
+Tell me about the electric car and charging.",0.0,0.0,0.0,0.07339449541284404,0.01869158878504673,0.05504587155963303,0.0,0.0024874506291405717,0.009125376,0.17084166
+2,Tell me about electric vehicles and charging.,"If airbags have been deployed, further diagnostic steps should be
+conducted to assess the integrity of the high-voltage system, such as measuring
+the battery temperature.  SAE J2990 recommends two barrier methods for an
+electric vehicle during storage:
+● Separate the vehicle from combustibles and structures by 50 feet on all
+sides, or
+● Create a barrier of earth, steel, concrete, or solid masonry around the
+vehicle.","Hey guys, would you like to know about electric vehicles and charging?","### Response:
+Electric vehicles are often considered to be in such a short distance that they can not be carried by a road infrastructure, so charging stations are often in the vicinity of the areas where road infrastructure is constructed.",0.1038961038961039,0.02666666666666667,0.1038961038961039,0.19230769230769232,0.0392156862745098,0.11538461538461539,0.00024902963667086284,0.007214456244163868,0.33780164,0.30956703
+3,Tell me about electric vehicles and charging.,"Furthermore, the NFPA recently added to its website a training video for
+firefighters, titled “Stranded Energy—How Little You Know Might Shock You. ”89
+A video prepared for the 2019 North American Heavy Rescue Symposium by the
+NFPA, and others demonstrates best practices for responding to electric vehicle
+fires. 90
+88 (CTIF, 2021)
+89 NFPA Alternative Fuel Vehicle Training for the fire service.",Can anyone do this with a battery?,"Tell me about the electric vehicle charging.
+
+### Response:
+Response:
+We should be able to implement a charging station system in the case of electric vehicles and charging stations, and provide a backup plan if the vehicle is damaged or stolen by the fireman's fireman's vehicle fireman's fireman's fireman's fireman's fireman's fireman's firemen's fireman's fireman's fireman's firemen's fireman's fireman's fireman's",0.028571428571428567,0.0,0.028571428571428567,0.17391304347826086,0.029411764705882353,0.11594202898550725,1.2782517386059213e-05,0.011058710482707061,0.1692622,0.35164356
+4,What information is available about charging stations?,"● Signage: Recharging station areas in parking lots must feature visible and
+appropriate signage. 
+● Staff Training and Emergency Response: Security personnel and other
+staff should be informed about the location of recharging areas, power
+isolation procedures, and alarm activation steps.  Staff must be trained to
+safely operate vehicle chargers and report damaged equipment promptly. 
+Defective chargers should be isolated, marked with warning notices, and
+updated as ""offline"" in relevant apps.",There's a lot of work already done in this thread,"What information is available about charging stations, is available on the website.",0.07500000000000001,0.0,0.07500000000000001,0.09876543209876544,0.0,0.07407407407407408,5.629288739172106e-05,0.0001483447517259004,0.039715707,0.505561
+5,What information is available about charging stations?,"● Fire Risk Management: Parking lots should not store combustible
+materials or flammable products, refuel vehicles, smoke, or allow open
+flames. 
+● Measures to consider at the installation phase of recharging
+infrastructure:
+o Location: Install recharging stations near the entrance or exit of
+underground garages to facilitate quick access for emergency
+responders.",What is the nature of this message?,"The charging station is the same type as the charging stations used in the US and USU, and it is called a parking parking station, and is designed to accommodate parking vehicles such as vehicles charging stations.",0.07017543859649124,0.0,0.07017543859649124,0.13793103448275862,0.0,0.09195402298850573,6.342998072883684e-05,0.004725381435652611,0.0022647977,0.41191775
+6,What information is available about charging stations?,"o Qualified Installation: Only specialised, registered electricians should
+install charging devices and associated power supplies to comply with
+legal and technical standards.  Non-compliant installations may void
+insurance coverage. 
+o Protection and Safety:
+▪ Protect charging stations from collisions or mechanical damage.",What a funny thing to say.,"What information is available about charging stations.
+
+### Response:
+Incompatible with Bluetooth devices.
+
+### Response:
+About charging stations.
+### Response:
+How about charging stations.
+### Response:
+Tell me to hurry up and buy the charging station that is currently available in the city of San Francisco, and the city of San Francisco, and the city of San Jose.
+### Response:
+Tell me to hurry up and buy the car that is currently available in the",0.0425531914893617,0.0,0.0425531914893617,0.16216216216216217,0.018348623853211007,0.10810810810810811,0.00011954733443753775,0.003935839908755213,-0.019643363,0.29513407
+7,What information is available about charging stations?,"o Minimise Combustible Materials: Limit the use of flammable
+materials or critical infrastructure near charging stations.  Walls should
+have adequate fire resistance (minimum two hours), and passive
+barriers should be installed to contain fire. 
+o Risk Modelling: Recharging infrastructure manufacturers should
+enhance risk modelling and battery performance monitoring to mitigate
+potential hazards.",What do you guys think?,What information is available about charging stations.,0.0,0.0,0.0,0.06779661016949154,0.03508771929824561,0.06779661016949154,0.0,0.00011279622870925617,-0.01924812,0.37734106
+8,Tell me about electric vehicles and charging.,")
+● Users should also frequently check the charging cables and charging
+devices for damage, for instance by carrying out a visual inspection each
+time before charging.  Defective connectors and cables should be replaced
+immediately. 
+● Only charging cables approved by the manufacturers and specifically
+intended for charging electric vehicles may be used.  Standard household
+extension cables, multiple socket strips, or adapters for charging cannot
+be used for recharging BEVs.",They are going to fix the road rage issue.,"Tell me about charging.
+
+### Response:
+Tell me about charging.
+### Response:
+Tell me about electric vehicles and charging.
+### Response:
+Tell me about electric vehicles and charging.",0.026315789473684213,0.0,0.026315789473684213,0.17391304347826086,0.04444444444444444,0.15217391304347827,2.7308828170260184e-05,0.003985125384355377,0.11627583,0.39167547
+9,Tell me about electric vehicles and charging.,"● Damaged, fire exposed, submerged or under recall electric vehicles or
+vehicles in which the battery may be damaged could pose a particular fire
+hazard and should therefore never be parked in any parking structure. 
+● Having a system in place that informs in case of overcharge on the electric
+line connected to the wall-charger could help prevent fires. 
+795. 3.  Recommendations for public stakeholders
+5. 3. 1.",,"Tell me about electric vehicles and charging, and other vehicles.
+### Response:
+What is the situation in your region?
+### Response:
+How do you find the availability of the electric vehicles and charging.",0.0,0.0,0.0,0.2040816326530612,0.041666666666666664,0.16326530612244897,0.0,0.007355385217994778,0.09808906,0.3603829
+10,Tell me about electric vehicles and charging.,"● Maintaining a safe distance, using 1000-volt gloves near batteries and high
+voltage circuits, is crucial due to the potential exposure of live components
+during physical damage and fires. 
+● Using water or other standard agents for BEV fires.  However, a high
+volume of water is one of the solutions to cool-down the high voltage
+batteries.  Water does not pose an electrical hazard to firefighters in an
+electric vehicle fire.",What about electric vehicles?,"Tell me about electric vehicles and charging.
+### Response:
+What is a reliable way to determine the power of a charging station, in case of a fire or other emergencies?
+### Response:
+Tell me about electric vehicle charging station and charging stations.",0.05405405405405405,0.027777777777777776,0.05405405405405405,0.2909090909090909,0.037037037037037035,0.18181818181818182,5.483883728992002e-09,0.009225085858653897,0.39769286,0.30286205
+11,Tell me about electric vehicles and charging.,"nl/wp-
+content/uploads/2024/05/20240416-NIPV-Factsheet-Annual-report-2023-
+Incidents-with-alternative-fuel-vehicles. pdf
+• ARUP.  (2023).  T0194 – Covered car parks - fire safety guidance for
+electric vehicles. 
+https://assets. publishing. service. gov. uk/media/65bb7b5ccc6fd600145dbe
+1a/covered-car-parks-fire-safety-guidance-for-electric-vehicles.","Hey guys, how's it going?","Tell me about electric vehicles and charging, or at least how to use them in the electric vehicle market.
+
+### Response:
+Tell me about the electric vehicle market and how to use it in the electric vehicle market.",0.0,0.0,0.0,0.11764705882352941,0.048192771084337345,0.11764705882352941,0.0,0.0048742862874500996,-0.036821358,0.3146354
+12,Tell me about electric vehicles and charging.,"Retrieved December 11, 2024, from
+https://www. evfiresafe. com/ev-battery-fire-data
+83• Fireforum.  (2023, October 2).  Code de bonne pratique Sécurité Incendie -
+Thème: Véhicules Electriques dans les parkings. 
+https://www. fireforum. be/fr/reglementation/cbp-vhicules-electriques-dans-
+les-parkings
+• Fire Protection Association.  (2023).  RC59: Recommendations for fire
+safety when charging electric vehicles.  https://www. thefpa. co. uk/advice-
+and-guidance/free-
+documents.",I'm just waiting for a solution.,"Tell me about electric vehicles and charging.
+
+### Response:
+Tell me about charging and charging.
+### Response:
+Tell me about electric vehicles and charging.",0.026666666666666665,0.0,0.026666666666666665,0.11111111111111112,0.022727272727272728,0.11111111111111112,2.6674615878365673e-05,0.003185125484080828,-0.029159606,0.45456666
+13,Tell me about electric vehicles and charging.,", Quant, M. , Pramanik, R. , Anna, O. , Ying Zhen, L. , Arvidson,
+M. , & Andersson, P.  (2023).  Electric Vehicle Fire Safety in Enclosed
+Spaces.  RISE.  https://ri. diva-
+portal. org/smash/get/diva2:1744882/FULLTEXT01. pdf
+• IEA.  (2023).  Global EV Outlook 2023.  IEA. 
+https://www. iea. org/reports/global-ev-outlook-2023/executive-summary
+• Kang, S. , Kwon, M. , Yoon Choi, J. , & Choi, S.  (2023).  Full-scale fire testing
+of battery electric vehicles.  Applied Energy, 332, 120497.",,"Tell me about electric vehicles and charging.
+
+### Response:
+Tell me about charging.",0.0,0.0,0.0,0.047058823529411764,0.02409638554216867,0.047058823529411764,0.0,0.00017936972589753443,0.038993396,0.39158294
+14,Tell me about electric vehicles and charging.,"Safety concerns as unqualified
+electricians found to be installing EV charge points.  Engineering and
+Technology Magazine.  https://eandt. theiet. org/2022/10/07/safety-
+concerns-unqualified-electricians-found-be-installing-ev-charge-points
+• Mohd, & César Martín-Gómez.  (2023).  Electric vehicle fire risk
+assessment framework using Fault Tree Analysis.  Open Research
+Europe, 3, 178–178.  https://doi. org/10. 12688/openreseurope. 16538.",How can I make more money if I don't pay for electricity?,"What type of batteries are used for charging
+
+### Response:
+What type of batteries are used for charging
+### Response:
+S-3: Electric vehicles are used for charging.
+
+### Response: the batteries are used for charging.
+Response: The vehicles are used for charging.
+Response: Electricity is used for charging.
+Response: Electric vehicles are used for charging.",0.025974025974025976,0.0,0.025974025974025976,0.10256410256410257,0.017391304347826087,0.08547008547008547,0.0,0.003324612889947367,0.06619263,0.11593509
+15,Tell me about electric vehicles and charging.,"1
+• Myths and facts about fires in battery electric vehicles.  (2022).  In LASH
+FIRE.  Legislative Assessment for Safety Hazard of Fire and Innovations
+in Ro-ro ship Environment.  https://lashfire. eu/media/2022/09/2022-
+08_Facts_and_Myths. pdf
+• National Transportation Safety Board of the United States.  (2020).  Safety
+Risks to Emergency Responders from Lithium-Ion Battery Fires in Electric
+84Vehicles (pp.  viii, ix).  https://www. ntsb. gov/safety/safety-
+studies/Documents/SR2001.",How much a month of electric cars and charging?,"Tell me about electric vehicles, and how to provide charging.
+
+### Response:
+Electric vehicles are not required to provide charging infrastructure.
+
+### Response:
+The Netherlands, Germany and Austria are in the process of implementing a national electric vehicle charging infrastructure. The Netherlands and Austria have already implemented a national electric vehicle charging infrastructure.",0.07228915662650603,0.0,0.04819277108433735,0.19200000000000003,0.016260162601626015,0.128,9.769624245546007e-05,0.005144011074207604,0.2582404,0.35910648
+16,Tell me about electric vehicles and charging.,"Risk Control Guide: Electric Vehicle Charging and Enclosed
+Car Parks.  https://static. rsagroup. com/rsa/commercial-insurance-
+products/risk-consulting/electric-vehicle-charging-enclosed-car-parks. pdf
+• Sergei Levchik, Hirschler, M. , & Weil, E.  (2011).  Practical Guide to Smoke
+and Combustion Products from Burning Polymers (p.  240).  Smithers
+Rapra. 
+• Technical guide ""Electric vehicle recharging installations"" of the firemen of
+Barcelona. 
+• Troitzsch, J.  H.  (2022).",This is amazing.,"Tell me about electric vehicles and charging.
+
+### Response:
+Tell me about charging.
+
+### Response:
+Tell me about electric vehicles and charging.",0.0,0.0,0.0,0.19277108433734938,0.04938271604938271,0.14457831325301204,0.0,0.002202767827383418,0.031725723,0.4834659
+17,Tell me about electric vehicles and charging.,"Alternative Fuels Data Center: Charging Electric Vehicles at Home Charging Electric Vehicles at Home Most drivers of electric vehicles (EVs)—which include all-electric vehicles and plug-in hybrid electric vehicles (PHEVs)—charge their vehicles overnight at home using AC Level 1 or AC Level 2 charging equipment.  Residential equipment is frequently installed in garages, but outdoor installation and use are also safe, even if the vehicle is being charged in the rain.",They can't help but release the update to the game.,"A different electric vehicle or vehicle may have different charging characteristics than the electric vehicle charging
+
+
+### Response:
+Response:
+The charging characteristics of electric vehicles are determined by the electric vehicle charging characteristics of the vehicle charging
+
+### Response:
+For charging purposes of electric vehicles the charging characteristics of the car are determined by the driver's driving characteristics of the vehicle charging
+### Response:
+The car charging characteristics of the vehicle are determined by the driver's driving characteristics of the vehicle charging
+###",0.07142857142857142,0.0,0.07142857142857142,0.2987012987012987,0.09210526315789472,0.24675324675324675,7.609134071236003e-05,0.017772414412998268,-0.028762784,0.41417766
+18,Tell me about electric vehicles and charging.,"7 per kWh and the vehicle consumes 27 kWh to travel 100 miles, the cost per mile is about $0. 03.  If electricity costs ¢10. 7 per kilowatt-hour, charging an EV with a 200-mile range (assuming a fully depleted 54 kWh battery) will cost about $6 to reach a full charge.  To compare the fueling costs of individual models of conventional and electric vehicles, see the Vehicle Cost Calculator.",My response : I am a professional electric vehicle driver.,"Tell me about electric vehicles and charging.
+
+
+### Response:
+Tell me about electric vehicles and electric charging.
+
+### Response:
+Response:
+Tell me about electric vehicles and electric charging.",0.075,0.02564102564102564,0.075,0.22680412371134023,0.04210526315789474,0.14432989690721648,7.609134071236003e-05,0.004130023353430545,0.27579552,0.31832334
+19,What information is available about charging stations?,"Note that actual residential electricity costs will depend on the type of equipment installed, as well as the time of day and length of time the charging station is used.  Some utilities offer residential time-of-use rates or other rate incentives for charging infrastructure owners.  To learn more about potential cost savings from enrolling in time-of-use rates, see the report: Levelized Cost of Charging Electric Vehicles in the United States.","No, I just don't have the right type of equipment.","What information is available about charging stations, and their availability?
+
+### Response:
+What information is available about charging stations, and how to obtain them, and how to prevent them from charging stations, and what other issues to focus on if the locations are such as locations and locations in the US and the US
+for such installations,
+of course:
+In the same way that the City of London should be notified about the issue of charging stations.
+### Response:
+There are other",0.09523809523809523,0.048780487804878044,0.09523809523809523,0.326797385620915,0.039735099337748346,0.1568627450980392,0.00013531166447104627,0.0083081343629671,-0.042354435,0.45949197
+20,Tell me about electric vehicles and charging.,"Note that actual residential electricity costs will depend on the type of equipment installed, as well as the time of day and length of time the charging station is used.  Some utilities offer residential time-of-use rates or other rate incentives for charging infrastructure owners.  To learn more about potential cost savings from enrolling in time-of-use rates, see the report: Levelized Cost of Charging Electric Vehicles in the United States.",Wow this is a really cool idea,"Tell us about batteries and charging.
+### Response:
+Tell me about electric vehicles,
+
+### Response:
+Tell me about gas and electric vehicles,
+### Response:
+Tell me about gas and electric vehicles,
+### Response:
+Tell me about fire and maintenance,
+### Response:
+Tell me about electric vehicles,
+### Response:
+Tell me about charging.
+
+Tell me about gas and electric vehicles,
+Tell me about fire and maintenance.",0.025,0.0,0.025,0.10606060606060605,0.015384615384615384,0.09090909090909091,4.7024253527477096e-06,0.0031320255213205736,-0.011013225,0.28527197

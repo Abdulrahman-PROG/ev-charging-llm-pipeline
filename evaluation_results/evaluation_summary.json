@@ -1,0 +1,31 @@
+{
+  "evaluation_date": "2025-07-24T23:21:31.959469",
+  "base_model": "microsoft/DialoGPT-small",
+  "fine_tuned_model": "./fine_tuned_model/final_model",
+  "domain_benchmark_size": 10,
+  "test_set_size": 20,
+  "metrics": {
+    "keyword_coverage_improvement": -0.010000000000000009,
+    "rouge1_improvement": 0.12522636547985316,
+    "rouge2_improvement": 0.025120921328273108,
+    "rougeL_improvement": 0.08151084838179834,
+    "bleu_improvement": 0.005077819139164526,
+    "semantic_similarity_improvement": 0.2709656059741974
+  },
+  "base_model_performance": {
+    "avg_keyword_coverage": 0.2733333333333333,
+    "avg_rouge1": 0.03960812610074945,
+    "avg_rouge2": 0.006443297894517407,
+    "avg_rougeL": 0.038403306823641015,
+    "avg_bleu": 4.7248214912567335e-05,
+    "avg_semantic": 0.08270860463380814
+  },
+  "fine_tuned_model_performance": {
+    "avg_keyword_coverage": 0.2633333333333333,
+    "avg_rouge1": 0.16483449158060262,
+    "avg_rouge2": 0.03156421922279051,
+    "avg_rougeL": 0.11991415520543935,
+    "avg_bleu": 0.005125067354077094,
+    "avg_semantic": 0.3536742031574249
+  }
+}
