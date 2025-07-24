@@ -5,4 +5,5 @@ ev_charging_env/
 logs/
 fine_tuned_model/
 wandb/
+metrics.db
 *.log
