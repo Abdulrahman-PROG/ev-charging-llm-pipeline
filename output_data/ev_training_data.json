@@ -1,0 +1,1154 @@
+[
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "May 2023\nTransatlantic Technical Recommendations\nfor Government Funded Implementation of\nElectric Vehicle Charging Infrastructure\nEU-U. S.  Trade and Technology Council\nWorking Group 2 - Climate and Clean Tech\nWorkstream: Electro-mobility and Interoperability with Smart Grids\nCo-Chairs: Maria Cristina Russo, European Commission, and Julie Cerqueira, U. S.  Department of Energy\nAuthors: Keith Hardy, U. S.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Department of Energy\nnetworked-connected EVSE to enable\nEM/EMC: Electromagnetic/Electromagnetic integrated communication and control)\nCompatibility\nSDO: Standards Development Organization\nEU: European Union\nSOCE: State of Certified Energy of batteries\nEV: Electric Vehicle (defined by UN-ECE to replace State of\nHealth, SoH)\nEVE: Electric Vehicles and the Environment (a\nWorking Group of the UN- SSO: Standards Setting Organization\non Pollution and Energy)\nTTC: EU-U. S.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Transatlantic Trade and\nEVSE: Electric Vehicle Supply Equipment (aka Technology Council\nchargers)\nUN-ECE: United Nations Economic\nGTR: Global Technical Regulation Commission for Europe (producing Global\nTechnical Regulations)\nHLC: High Level Communication\nU. S.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ": United States\nIEC: International Electrotechnical\nCommission V2X: Vehicle-to-X (where X may be the\nhome, workplace or grid, or even other mobile\nICT: Information and Communications\ndevices)\nTechnology\nVGI: Vehicle-Grid Integration\nISO: International Organization for\nStandardization WPT: Wireless Power Transfer (for inductive\ncharging)\nJRC: Joint Research Centre of the European\nCommission\n1Introduction\nWhile reliable, widely available, electric vehicle (EV) charging infrastructure is essential to\nexpand e-mobility, smart charging technology also provides significant benefits to the power\ngrid, especially as the share of EVs and renewables in the market grows.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Trade and\nTech Working Group, respond to the current and\nexpected growth of the electric vehicle market and support EU and U. S.  commitments to\nclean energy and decarbonisation.  They build on more than a decade of close, pre-normative\nresearch cooperation between the U. S.  Department of\n(ANL) and the JRC), and consultations with\ngovernment, research, industry, and grid-service stakeholders1.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "SOCE,\nformerly referred to as SOH (or state of health), indicates the remaining certified\nusable battery energy-storage capacity.  UN-ECE GTR EVE 22 gives a harmonized,\nreliable definition of SOCE for the use of EV batteries in electric vehicles and later,\nwhen these batteries are dismounted for use in stationary storage systems (so-called\n-\n2 The the latest versions can be found for:\nIEC61851: https://webstore. iec. ch/publication/33644\nIEC62196-2: https://webstore. iec.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "E-mobility infrastructure cybersecurity is of high importance because of the\ncritical nature of charging systems to enabling operation of electric vehicles. \n2. ) Apply policies and experience to avoid stranded assets. \nAll of the following could be implemented now:\na) Avoid dependence on specific, proprietary networks for publicly funded EVSE-\ninstallations in order to safeguard against stranded assets due to loss of network\nproviders for business or other reasons.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "This\nmeans that reuse is allowed provided appropriate credit is given and any changes are indicated.  For\nany use or reproduction of photos or other material that is not owned by the EU, permission must be\nsought directly from the copyright holders. \nHow to cite:\nHardy, K.  and Scholz, H. , Transatlantic Technical Recommendations for Government Funded\nImplementation of Electric Vehicle Charging Infrastructure, Publications Office of the European\nUnion, Luxembourg, 2024, doi:10.",
+    "source": "transatlantic technical recommendations for government-KJ0423560ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Optimal allocation of electric vehicle\ncharging infrastructure in cities and\nregions\nirst main title line first line\nsecond main title line\nDimitrios Gkatzoflias\nYannis Drossinos\nthird main title line Alyona Zubaryeva\n<MaPini etittlreo, V Zeradamnab 2e8l,l il ine spacing 32 pt>\nPanagiota Dilara\nChristian Thiel\n<Main subtitle, Verdana 10, line spacing 12pt>\n2016\nEUR 27894 ENThis publication is a Science for Policy report by the Joint Research Centre, the European Commission’s in-house\nscience service.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "How to cite: Dimitrios Gkatzoflias1,2, Yannis Drossinos1, Alyona Zubaryeva3, Pietro Zambelli3, Panagiota Dilara1,4,\nand Christian Thiel1, Optimal allocation of electric vehicle charging infrastructure in cities and regions, EUR;\ndoi\n1 European Commission, Joint Research Centre, T. P.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Abstract\nA geospatial analysis of electric-vehicle charging infrastructure allocation within a city and a region, based on\nopen source GIS tools, is described.  A methodology was developed to provide optimal locations of electric vehicle\ninfrastructure (charging stations) within a spatially extended region.  Two different cases were identified:\nplacement in a city network (urban road network) and in a regional or national network (rural roads and\nhighways).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Abstract\nA geospatial analysis of electric-vehicle charging infrastructure allocation within a city and a region, based on\nopen source GIS tools, is described.  A methodology was developed to provide optimal locations of electric vehicle\ninfrastructure (charging stations) within a spatially extended region.  Two different cases were identified:\nplacement in a city network (urban road network) and in a regional or national network (rural roads and\nhighways).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "For a city and a regional network, the methodology identifies high-potential areas for the installation\nof charging station.  In contrast, for a highway network the methodology provides explicitly the suggested\nlocations: the charging stations should preferably be placed in already built areas, gas stations or rest areas, to\nminimize additional investment costs.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The study summarized in this report presents a GIS (Geographic Information System)\nmethodology, based on open source tools that may assist national authorities to allocate\ncharging stations for electric vehicles (EVs) in urban environments, rural road networks,\nand highways. \nKey conclusions\nThe aim of the proposed methodology is to provide optimal locations of EV infrastructure\n(charging stations) within a spatially extended region.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "The study summarized in this report presents a GIS (Geographic Information System)\nmethodology, based on open source tools that may assist national authorities to allocate\ncharging stations for electric vehicles (EVs) in urban environments, rural road networks,\nand highways. \nKey conclusions\nThe aim of the proposed methodology is to provide optimal locations of EV infrastructure\n(charging stations) within a spatially extended region.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Two different cases were\nidentified: placement in a city network (urban road network) and placement in a regional\nor national network (rural roads and highways).  For a city and a regional network, the\nmethodology identifies high-potential areas for the installation of charging stations.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "In\ncontrast, for a highway network the methodology provides explicitly the suggested\nlocations: the charging stations should preferably be placed in already built areas, gas\nstations or rest areas, to minimize additional investment costs. \n3A pilot study was made for the city of Bolzano/Bozen (city road network) and the\nprovince of Alto Adige/Südtirol (rural and highway network).  The results of the study\nwere highly appreciated by the municipality and the province.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "The European Commission vigorously supports sustainable-mobility initiatives\nand smart-cities projects that can lead to road-transport decarbonisation or\nmitigation of urban air pollution.  They are among the pillars of the Europe 2020\nstrategy (EC, 2015a).  One of the key aspects of these initiatives is the\ndecarbonisation of road transport with the further deployment of electric vehicles\n(EVs) across Europe (EC, 2015b).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Based on different weighting factors and using map\nalgebra a map is created with cells of size 100x100 m (Figure 1).  This calculated map\nindicates the optimal city areas where EV charging infrastructure (i. e. , charging stations)\ncould be placed according to specific scoring levels (which, of course, depend on the\nweighting factors).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Local authorities along with the electricity distribution system\noperator (DSO) can agree on the exact location of the charging stations within the high-\nscore areas.  The final location should take into account space limitations and the\nmaximum acceptable distance from the electricity network.  Space limitations could also\ninclude the width and installations present in road pavements.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "1 Residential statistics\nResidential statistics refer to statistical data on the number of people (and possibly their\ncharacteristics such as age, employment status, etc. ) who live within the examined area. \nThese data are used to locate public charging stations that are within close proximity to\nhighly populated areas.  The aim is to provide charging stations to be used mostly at\nnight by drivers who do not have access to private plugs (as those in private garages).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Possible source:\n Local authorities (Municipality, Province, Region),\n National or governmental agencies (National Transport Agency, National Land\nSurvey and Registry),\n Parking companies. \nFigure 2.  Parking areas. \n72. 1. 3 Electic power distribution network\nThese data are used to map the electric power grid to which charging stations would\nconnect.  The aim is to minimize investment by using the available grid coverage.  The\ndata are usually available from the DSO.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Schematic representation of electricity networks (MBizon, 2010). \n82. 1. 4 Public transport stations\nFollowing the Directive on the Deployment of Alternative Fuels Infrastructure (EU, 2014),\nand to support co-modality in transport, the installation of charging stations close to\npublic transport stations is recommended.  The public transport stations include airports,\nports, train, and bus stations. \nSuggested format:\nPolyline or point shapefile (ESRI format).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "We chose the maximum distance\nbetween the electricity network and a charging station to be approximately 50m, since at larger\ndistances the connection to the grid may be difficult, or expensive, or it might require additional\ninstallation time.  Figure 5 presents this buffering using the 'Create Buffers' form of the MMQGIS\nplug-in of QGIS. \nFigure 5.  Creation of the buffer. \n2 The vector grid is similar to a raster layer, but it contains vector information.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Spatial join of the public transport stations layer with the vector grid. \nFurther examples of spatially joining buffered layers (parking space, health centres, university\nlocations, stores, restaurants, and malls) with the vector grid are presented in Appendix I. \nWe conclude by justifying our choice of a 100m buffering of POI, as used in Section 2. 2. 2.  We\nconsider that an acceptable walking distance between a charging station and POI should be less than\n300m.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ", gas station chain companies) that provide this service,\nMap content and navigation companies (Google Places API, HERE maps API, Bing Maps\nAPI etc. ). \n3. 2 Methodology\nThe regional/national level analysis aims to allocate EV infrastructure every x km, where\nx should be large enough to ensure that no electric vehicle remain without adequate\ncharge on the road (not complete discharge of the usable battery energy).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "It is split in a way that the algorithm\npredicts an adequate infrastructure for an EV to travel throughout the region without\nrunning out battery energy. \n3. 2. 1 Highway network\nCharging stations on highways have to be placed in already built areas (rest areas, gas\nstations, etc. ) since the cost and time to construct new areas is high.  According to a JRC\nmobility data analysis, based on both conventional and electric vehicles from various\nregions (Donati et al.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "It is split in a way that the algorithm\npredicts an adequate infrastructure for an EV to travel throughout the region without\nrunning out battery energy. \n3. 2. 1 Highway network\nCharging stations on highways have to be placed in already built areas (rest areas, gas\nstations, etc. ) since the cost and time to construct new areas is high.  According to a JRC\nmobility data analysis, based on both conventional and electric vehicles from various\nregions (Donati et al.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": ", 2015), charging stations placed at a maximum distance of\napproximately 60km (actual road distance and not Euclidean distance) would provide an\nadequate infrastructure.  We note that a highway charging station serves vehicles\ntravelling towards a specific highway direction since rest and service areas cannot be\naccessed from both directions.  Hence, the distance of 60km refers to each highway\ndirection, the two directions being independent. \n3. 2.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Gas stations located along the highway. \nAfter this step, the algorithm must satisfy an additional condition.  Charging\ninfrastructure has to be installed at the first and the last gas stations (within the region),\nsince it is unknown how far (if at all) charging stations are located before and after the\nexamined area.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "This condition has to be applied to all regions in Europe that plan to\ninstall charging infrastructure on highways if the location of the charging stations in\nneighbouring provinces or states is unknown.  The condition guarantees safe and\nseamless transport of electric vehicles in confining regions and countries.  Accordingly,\n\"North #1\", North #4\", \"South #1\", and \"South #4\" are selected suggested areas. \nThe algorithm continues by checking the distance between consecutive gas stations.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "This condition has to be applied to all regions in Europe that plan to\ninstall charging infrastructure on highways if the location of the charging stations in\nneighbouring provinces or states is unknown.  The condition guarantees safe and\nseamless transport of electric vehicles in confining regions and countries.  Accordingly,\n\"North #1\", North #4\", \"South #1\", and \"South #4\" are selected suggested areas. \nThe algorithm continues by checking the distance between consecutive gas stations.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "An\narea is characterized as \"suggested\" every time the limit of 60km from the last\n\"suggested\" area is exceeded.  For the case of Alto Adige it is considerably simple since\nthere are only two unassigned gas stations per direction.  If we consider the direction\nNorth the optimal allocation would be \"North #2\" instead of \"North #3\" because a\nsmaller travelling distance is calculated .  In more detail:\n Choosing \"North #2\" implies a maximum distance of 44km between charging stations6.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "6 The total distance between North #2 and #4\n20 Choosing \"North #3\" implies a maximum distance of 54km between charging stations7. \nThe same approach for direction South suggests that the optimal allocation would be\n\"South #3\":\n Choosing \"South #2\" implies a maximum distance of 57km between charging stations8. \n Choosing \"South #3\" implies a maximum distance of 49km between charging stations9. \nFigure 19.  Distances between gas stations and the beginning/end of the highway.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The list of suggested gas stations based on the above algorithm is presented in Table 1. \nThe total calculated number is three gas stations towards the North and three towards\nthe South.  Figure 20 presents these gas stations geospatially and Figure 21 presents\nthem zoomed-in and overlaid on Google Street maps. \nTable 1: Suggested gas stations to install EV charging stations. \nGas station Close to town Latitude Longitude\nNorth #1 VADENA 46. 38639 11. 294298\nNorth #2 CASTELROTTO 46. 57007 11.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "522907\nNorth #4 CAMPO DI TRENS 46. 86872 11. 483787\nSouth #1 CAMPO DI TRENS 46. 86797 11. 484095\nSouth #3 FIE ALLO SCILIAR 46. 53162 11. 490393\nSouth #4 VADENA 46. 36053 11. 288427\n7 The total distance between North #1 and #3\n8 The total distance between South #2 and #4\n9 The total distance between South #1 and #3\n21Figure 20.  Suggested gas stations to install EV charging stations. \nFigure 21.  Zoomed-in suggested gas stations to install EV charging stations. \n223. 3.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Main roads except highways and road segments less than 20km. \nThe next step demands the assignment of charging stations on the road network every\n30 km.  A maximum range of 30 km (half the 60 km used in the highway calculation)\nwas chosen for rural roads since the analysis was based solely on main roads, but the\nresulting infrastructure should cover also the smaller roads (<20 km).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Furthermore, the\ncharging stations would serve both directions: for example, the last charging station\nbefore the end of a road should also cover the distance to return to the charging station. \nThe assignment of charging stations could be made with the QChainage10 plugin. \nHowever, the plugin could not be used directly on the whole network because not all\nroad segments are connected.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The\nlocation of the symbols indicates a suggested location to install a charging station.  The\nstations may be placed in either parking areas and/or gas stations along the roads or in\na new area (the choice may be guided by the minimum expenditure).  The position has to\nbe decided within a +/- 10km buffer region from the suggested areas.  This buffer\nshould be the actual road distance and not the Euclidean distance.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Figure 23.  Grouping of road segments based on their direction. \n24Figure 24.  Suggested areas to place charging stations along rural roads. \nFigure 25.  Suggested charging-station locations may appear close to each other, but\nthey serve different road segments. \n254.  Summary\nA geospatial analysis of electric-vehicle charging infrastructure allocation within a city\nand a region, based on open source GIS tools, is described.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "A methodology was\ndeveloped to provide optimal locations of EV infrastructure (charging stations) within a\nspatially extended region.  Two different cases were identified: placement in a city\nnetwork (urban road network) and placement in a regional or national network (rural\nroads and highways).  For a city and a regional network, the methodology identifies high-\npotential areas for the installation of charging station.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "In contrast, for a highway network\nthe methodology provides explicitly the suggested locations: the charging stations\nshould preferably be placed in already built areas, gas stations or rest areas, to minimize\nadditional investment costs.  A pilot study was made for the city of Bolzano/Bozen (city\nroad network) and the province of Alto Adige/Südtirol (rural and highway network).  The\nmunicipality and the province gave positive feedback on the suggested locations.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "If a raster layer\nspecifying areas where it is prohibited to install charging stations, or a layer with areas\nthat are mandatory for installation, is available a new allocation map can be created with\nlittle additional effort.  The methodology can be easily implemented by local or regional\nauthorities as it relies mainly on data readily available to them.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Energy Union Package – Communication on A Framework Strategy for\na Resilient Energy Union with a Forward-Looking Climate Change Policy. \n[COM(2015)80]. \n[4] Thiel, C. , Krause, J. , Dilara, P.  (2015).  Electric vehicles in the EU from 2010-2014 -\nis full scale commercialisation near. , JRC Science and Policy Report (EUR 27417). \n[5] De Gennaro M. , Paffumi E. , Scholz H. , Martini G.  (2014).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "GIS-Driven analysis of e-\nmobility in urban areas: an evaluation of the impact on the electric energy grid. \nApplied Energy 124, 94-116. \n[6] De Gennaro M. , Paffumi E. , Martini G.  (2015).  Customer-driven design of the\nrecharge infrastructure and Vehicle-to-Grid in urban areas: A large-scale\napplication for electric vehicles.  Energy 82, 294-311. \n[7] Paffumi E. , De Gennaro M. , Martini G. , Scholz H.  (2014).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Assessment of the\npotential of electric vehicles and charging strategies to meet urban mobility\nrequirements.  Transportmetrica A, 11, 22-60. \n[8] Bauche F. , Billot R. , Trigui R. , El Faouzi N. -E.  (2014).  Optimization model for\nefficient allocation of electric vehicles charging stations: Application to a dense\nurban network.  Transportation Research Board. \n[9] Efthymiou D. , Chrysostomou K. , Morfoulaki M. , Aifadopoulou G.  (2015).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Assessment of the\npotential of electric vehicles and charging strategies to meet urban mobility\nrequirements.  Transportmetrica A, 11, 22-60. \n[8] Bauche F. , Billot R. , Trigui R. , El Faouzi N. -E.  (2014).  Optimization model for\nefficient allocation of electric vehicles charging stations: Application to a dense\nurban network.  Transportation Research Board. \n[9] Efthymiou D. , Chrysostomou K. , Morfoulaki M. , Aifadopoulou G.  (2015).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Electric\nVehicle Charging Facility Location Problem: The case of Thessaloniki.  The\nAssociation of European Operational Research Societies Working Group on\nTransportation (EWGT 2015) conference, 14-16 July 2015, Delft, the Netherlands. \nURL: http://www. ewgt2015. org/images/Schematic_Program_20150705. pdf\n[10] Cruz-Zambrano M. , Corchero C. , Igualada-Gonzalez L. , Bernardo V.  (2013). \nOptimal location of fast charging stations in Barcelona: A flow-capturing approach.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "Electric\nVehicle Charging Facility Location Problem: The case of Thessaloniki.  The\nAssociation of European Operational Research Societies Working Group on\nTransportation (EWGT 2015) conference, 14-16 July 2015, Delft, the Netherlands. \nURL: http://www. ewgt2015. org/images/Schematic_Program_20150705. pdf\n[10] Cruz-Zambrano M. , Corchero C. , Igualada-Gonzalez L. , Bernardo V.  (2013). \nOptimal location of fast charging stations in Barcelona: A flow-capturing approach.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "European Energy Market (EEM), 10th International Conference, Proceedings, pp. 1-\n6, 27-31, May 2013.  doi: 10. 1109/EEM. 2013. 6607414. \n[11] Kuby M. , Lines L. , Schultz R. , Xie Z. , Kim J. -G. , Lim S.  (2009).  Optimization of\nhydrogen stations in Florida using the flow-refueling location model.  Int.  J. \nHydrogen Energy, 34, 6045–6064. \n[12] Lindblad L.  (2012).  Deployment methods for electric vehicle infrastructure.  Master\nThesis, Uppsala University. \n[13] OSM (2015).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "com/en/\n[17] TfL (2010).  Guidance for implementation of electric vehicle charging infrastructure. \nTransport for London, First edition. \n[18] AUE (2012).  EV charging points in Oslo.  Agency for Urban Environment, City of\nOslo, Norway. \n[19] C2ES (2012).  An action plan to integrate plug-in electric vehicles with the U. S. \nelectrical grid.  Center for Climate and Energy solutions. \n[20] Forbes K. , Staubach E. , Hewitt K.  Zogg J.  Lovas D. , Lundgren K.  (2012).",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Albany\nElectric Vehicle Feasibility Study, Report No.  C-10-58. \n27[21] TS (2013).  Switched On Scotland: A Roadmap to widespread adoption of plug-in\nvehicles.  Transport Scotland, ISBN: 978-1-909948-01-3. \n[22] MoTraSim (2014).  'Mobility, Traffic and Transportation Models, Methodologies and\nApplications', Transportation Research Institute (IMOB) of Hasselt University,\nBelgium, 14-17 July 2014. \n[23] UITP (2015).  3rd European Electromobility Stakeholder Forum. \nURL: http://www. uitp.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Land allocation map of the city level analysis for Bolzano overlaid on a\nsatellite view (legend: score/cell). \nFigure 16.  The road network of the Province of Alto Adige. \nFigure 17.  The highway network.  Both directions (North, South) are indicated. \nFigure 18.  Gas stations located along the highway. \nFigure 19.  Distances between gas stations and the beginning/end of the highway. \nFigure 20.  Suggested gas stations to install EV charging stations. \nFigure 21.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Zoomed-in suggested gas stations to install EV charging stations. \nFigure 22.  Main roads except highways and road segments less than 20km. \nFigure 23.  Grouping of road segments based on their direction. \nFigure 24.  Suggested areas to place charging stations along rural roads. \nFigure 25.  Suggested charging-station locations may appear close to each other, but\nthey serve different road segments. \nFigure 26.  Spatial join with the vector grid: Parking places. \nFigure 27.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Spatial join with the vector grid: Health centres. \nFigure 28.  Spatial join with the vector grid: Universities. \nFigure 29.  Spatial join with the vector grid: Stores. \nFigure 30.  Spatial join with the vector grid: Restaurants. \nFigure 31.  Spatial join with the vector grid: Malls. \n32List of tables\nTable 1.  Suggested gas stations to install EV charging stations.",
+    "source": "optimal allocation of electric vehicle charging infrastructure-LDNA27894ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "/\nElectric vehicle\ncharging concessions\nA contract guide for public authoritiesElectric vehicle\ncharging concessions\nA contract guide for public authoritiesElectric vehicle charging concessions\nA contract guide for public authorities\n© European Investment Bank, 2022. \n98 -100, boulevard Konrad Adenauer\nL-2950 Luxembourg\n+352 4379-1\ninfo@eib. org\nwww. eib. org\ntwitter. com/eib\nfacebook. com/europeaninvestmentbank\nyoutube. com/eibtheeubank\nAll rights reserved.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "2867/41886511\nTable of contents\nIntroduction 3\nPart 1: Deciding to use a concession model 7\nPart 2: Structure and content of the concession contract 19\nTheme 1: Duration 22\nTheme 2: Sites 23\nTheme 3: Design and installation of EV charging infrastructure 24\nTheme 4: Operation of the EV charging infrastructure and services 26\nTheme 5: Payments and pricing 29\nTheme 6: Financing and public authority support 32\nTheme 7: Insurances 34\nTheme 8: Changes 35\nTheme 9: Complying with laws and regulations 36\nTheme 10: Relief, compensation and force majeure 37\nTheme 11: Liability for claims 39\nTheme 12: Early termination 40\nTheme 13: Expiry 43\nTABLE OF CONTENTS3\nIntroduction\nBackground\nThe European Union’s ambitious climate objectives rely on a widespread and rapid transition from\ninternal combustion engine vehicles to electric vehicles (EVs) over the next few years.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES5\nWhen to use this guide during the project cycle3\nRefer to Part 1 Refer to Part 2\nof this guide of this guide\nPhase 2a:\nPhase 1: Phase 2b:\nChoosing a Phase 3: Phase 4\nProject Preparing for\npartnering Procurement Implementation\nidentification procurement\napproach\nDecide to use Decide to use Prepare Sign contract\na partnering the concession procurement with private\napproach model documents and partner\ndraft contract\nUsers must note the following limitations of this guide:\n• It applies to publicly accessible EV charging infrastructure for use by private vehicles.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ")\nDemand\n(Sufficiency of user PUBLIC SHARED PRIVATE PUBLIC PRIVATE\nrevenues to cover costs)\nTechnology\nPUBLIC SHARED PRIVATE PUBLIC PRIVATE\n(Obsolescence)\nChange in law\n(Compliance with\nPUBLIC SHARED SHARED SHARED PRIVATE\nchanges in laws or\nregulations)\nFinancing\n(Resources to meet\nPUBLIC SHARED PRIVATE PRIVATE PRIVATE\ncapital investment and\nongoing costs)\nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES11\nAnalysing the partnering models against\nthe public authority’s objectives\nThe public authority should design its partnering intervention in line with its main objectives for the EV\ncharging infrastructure rollout.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "uri=SWD:2021:0637:FIN:EN:PDF\nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES13\nIn the public contract, concession and availability-based models, the public authority can specify\nstandards and requirements that the private partner must meet in the ongoing EV service delivery.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "A public authority should be mindful of the interactions between individual\nelements of its strategy, and of the limitations of different partnering models in accommodating\nstrategy changes over time. \nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES15\nChanges to EV charging infrastructure\nA change or development in overall strategy might prompt the public authority to seek to change the\nEV charging infrastructure and/or systems after signing the contract (e. g.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES17\n• the public authority’s preferred level of influence over the development and performance of the\npublic EV charging infrastructure network (such as service quality, pricing, spatial development,\nmarket organisation);\n• impact on the shape, size and competitiveness of the EV charging market (for example, risk of\ncrowding-out or deterring new entrants);\n• flexibility of the various partnering models to adapt to changes in laws, policies and/or regulations;\n• requirements and restrictions of relevant laws and regulations (for instance, relating to public\ncontracts);\n• estimated time to procure a contract and roll out the EV charging infrastructure under the various\npartnering models.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES2233\nTheme 2\nSites\nSelecting sites\nThe contract will identify sites for installation of the EV charging infrastructure, and/or potential sites\nwhere the private partner is expected to develop the network in response to projected or actual\ndemand arising during the contract.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "15 Obligations in the installation programme will depend on the underlying strategy for developing the EV charging network — see footnote 4 above. \nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES2255\n• Health & safety: the private partner is responsible for complying with all relevant health and safety\nlaws, regulations and good practice.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "one-off users);\n• accessibility of the EV charging infrastructure to e-mobility service providers;\n• functionality of the EV charging infrastructure (such as how quickly charging starts, availability of\nreal-time charging information);\n• number of service failures and timescales for responding to them;\n• procedures and timescales for dealing with user enquiries, calls for assistance and complaints;\n• procedures and timescales for inspections, maintenance and repairs;\nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES2277\n• policy on energy resources (e.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "This can be achieved through the authority providing relief or compensation if defects\narise (see Theme 10) or undertaking to pursue claims against manufacturer warranties and guarantees\nthat cannot be transferred to the private partner. \nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES2299\nTheme 5\nPayments and pricing\nUser pricing and payments\nThe principal payments in a concession are those by users to the private partner.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES3311\nFor capital subsidies (see Theme 6), the contract should be clear on the timing and any conditions to\nwhich these are linked, such as evidence of successfully installing equipment, so as to minimise the risk\nto the public authority of losing its contribution (e. g.  due to private partner insolvency). \nOperating subsidies (see Theme 6) can take various forms.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES3333\nIf the public authority is making any financial contribution to the concession arrangement, the contract\nshould clearly specify the timing and conditions for such payments (see Theme 5).",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "However, these support measures should be explored only in exceptional circumstances. \nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES3355\nTheme 8\nChanges\nThe parties are typically free to amend the contract by mutual agreement in accordance with the laws\nin force in the jurisdiction.  However, the contract itself usually explicitly recognises either party’s right\nto request changes and sets out a process that structures the negotiation of changes.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Any change-in-law protection for the private partner should exclude changes that were foreseeable at\nthe time it submitted a bid for the contract. \nELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES3377\nTheme 10\nRelief, compensation and force majeure\nA concession arrangement generally transfers the risk of design, installation, operation and maintenance\nof the EV charging infrastructure to the private partner.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES3399\nTheme 11\nLiability for claims\nThe contract will typically contain an indemnity from the private partner to cover any losses or liabilities\nthe public authority incurs as a result of the private partner’s performance or non-performance of the\ncontract.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES4411\nIn situations of private partner or public authority default, the contract typically provides that the non-\ndefaulting party may serve a termination notice on the defaulting party.  The contract usually allows\na limited time period after receiving the notice for the defaulting party to remedy the default (if it is\ncapable of being remedied).",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ELECTRIC VEHICLE CHARGING CONCESSIONS: A CONTRACT GUIDE FOR PUBLIC AUTHORITIES4433\nTheme 13\nExpiry\nThe contract typically takes one of two approaches to determining its expiry:\n• fixed contract period: the expiry date is fixed by reference to the contract start date;\n• fixed exploitation period: the expiry date is fixed by reference to the date when some or all of the EV\ncharging infrastructure becomes operational.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The first approach creates a stronger incentive on the private partner to complete the installation on\n(or even before) time, as any delay in installing the EV charging infrastructure will reduce the time available\nto generate user revenues.  The second approach offers more flexibility to cope with unexpected events\nduring the installation period (such as unusual delays in getting approval for new charging stations), as the\nperiod for the private partner to generate revenues is unaffected.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "org\nElectric vehicle charging concessions\nA contract guide for public authorities\n© European Investment Bank, 04/2022 EN pdf: ISBN 978-92-861-5229-0.",
+    "source": "electric vehicle charging concessions-QH0122144ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "eu\nEuropean Commission\nB-1049 BrusselsGUIDANCE ON FIRE SAFETY FOR\nELECTRIC VEHICLES PARKED\nAND CHARGING\nINFRASTRUCTURE IN COVERED\nPARKING SPACESLEGAL NOTICE\nThis publication is a report by the Sustainable Transport Forum (STF), the European Commission´s expert\ngroup on alternative fuels infrastructure.  It aims to provide evidence-based scientific support and\nrecommendations to the European policymaking process.  The document reflects the views only of the\nmembers of the STF.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "7Executive Summary\nAs battery electric vehicles (BEVs) continue to grow in number on European\nroads, their integration into urban infrastructure—particularly in covered parking\nfacilities—has become a key focus for regulatory and safety considerations.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Introduction\nIn recent years, the prevalence of electric vehicles (EVs) on European roads has\nsurged remarkably, with light battery electric vehicles (BEVs) such as cars and\nvans leading this transformative trend.  Globally, close to 14 million BEVs were\nsold in 2023, capturing a notable 18% market share, and all signs point to this\nmomentum continuing strong.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Additionally, the Alternative Fuels Infrastructure Regulation (AFIR) establishes\nminimum standards for deploying recharging stations, including those in publicly\naccessible covered parking areas such as shopping centres and public parking\nlots.  Further advancing this agenda, the recast Energy Performance of Buildings\nDirective (EPBD) was adopted2 in May 2024.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "This guidance document is designed to assist local public authorities in creating\na fire safety framework for BEVs in covered parking areas.  It also serves as a\nresource for parking lot operators, designers, risk assessors, original equipment\nmanufacturers (OEMs), and property owners involved in installing BEV\nrecharging stations in both new and existing covered parking facilities.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "9 In contrast, 3,400 fires were reported\n3 (Classification and Definition of Vehicles | UNECE)\n4 (Troitzsch, 2022)\n5 (Troitzsch)\n6 (EV Battery Fire Data)\n7 (Bränder I Eltransportmedel under 2022)\n8 (“Myths and Facts about Fires in Battery Electric Vehicles”, 2022)\n9 (“Myths and Facts about Fires in Battery Electric Vehicles”, 2022)\n11in Sweden’s 4. 4 million petrol and diesel cars during the same period, equating\nto 0. 08% of the fossil fuel vehicle fleet.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "12 That year, just 181 fire incidents involved all types of electric\nvehicles (including BEVs, light-duty vehicles, and heavy-duty vehicles),\ndemonstrating the low frequency of BEV-related fires. 13\nNotably, fires in electric vehicles appear to be decreasing.  According to the MSB,\nthe number of fires in electric cars has remained around 20 fires annually over\nthe past three years, even though the number of EVs has nearly doubled in that\ntime in Sweden.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Regarding the speed of fire propagation,\nthe polymer fuel tank of an ICEV will ignite more quickly than the lithium-ion\n10 (“Myths and Facts about Fires in Battery Electric Vehicles”)\n11 (“Myths and Facts about Fires in Battery Electric Vehicles”)\n12 (Vanhaverbeke et al. , 2024)\n13 (NIPV Annual Report 2023, 2024)\n14 (“Myths and Facts about Fires in Battery Electric Vehicles”)\n15 (Hynynen et al. , 2023)\n16 (Mohd & César Martín-Gómez, 2023)\n17 (Hynynen et al.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ")\n18 (Presentation by Olla Willstrand from RISE at the webinar on Safety aspects of EV\nmanufacturing, use, maintenance, repair and disposal organised by ALBATTS on 3 May 2023)\n19 (Hynynen et al. )\n20 (“Myths and Facts about Fires in Battery Electric Vehicles”)\n12battery of an EV when exposed to external heat. 21 However, according to the\nUnited States National Fire Protection Association (NFPA), extinguishing BEV\nand hybrid vehicle fires often takes longer than conventional car fires.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Definitions and Acronyms\nAcronyms\n● AC: Alternating current\n● AFIR: Alternative Fuels Infrastructure Regulation\n● AVERE: European Association for Electromobility\n● BMS: Battery Management System\n● CO: Carbon monoxide\n● CO2: Carbon dioxide\n● CTIF: International Association of Fire and Rescue Services\n● DC: Direct current\n● DSB: Norwegian Directorate for Civil Protection\n● EFSN: European Fire Sprinkler Network\n● EPBD: Energy Performance of Buildings Directive\n● EU: European Union\n● Euro NCAP: European New Car Assessment Programme\n● EV: Electric vehicle\n● EVSE: Electric vehicle supply equipment\n● FEEDS: European Electrical Domestic Safety\n● IC-CPD: In-Cable Control- and Protection Device\n● ICEV: Internal combustion engine vehicle\n● HCN: Hydrogen cyanide\n● HF: Hydrogen fluoride\n● IEC: International Electrotechnical Commission\n● MSB: Swedish Civil Contingencies Agency\n● NFPA: National Fire Protection Association in the United States of America\n21 (“Myths and Facts about Fires in Battery Electric Vehicles”)\n22 (Willstrand et al.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ", 2019)\n13● NIPV: Netherlands Institute for Public Safety\n● OEM: Original equipment manufacturer\n● SEI: Solid electrolyte interphase\n● SOC: State of Charge\n● STF: Sustainable Transport Forum\n● UNECE: United Nations Economic Commission for Europe\n● VCE: Vapor-cloud explosion\n● VOC: Volatile Organic Compound\nDefinitions\n● Battery Electric Vehicles (BEV): An electric vehicle that runs exclusively\non the electric motor, with no secondary source of propulsion.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "23\n● Category M1 vehicle: Vehicles used for the carriage of passengers and\ncomprising not more than eight seats in addition to the driver's seat. 24\n● High Power Recharging Point: A recharging point with a power output of\nmore than 22 kW for the transfer of electricity to an electric vehicle. 25\n● Normal Power Recharging Point: A recharging point with a power output\nless than or equal to 22 kW for the transfer of electricity to an electric\nvehicle.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Preventive Fire Protection\n● Special Rules for Fast Charging: Charging stations with power greater\nthan 22kW are only permitted under specific conditions: single-floor car\nparks on street level with a maximum area of 250 sqm, in fire\ncompartments with automatic extinguishers and 24/7 security centre\nnotifications, or in fire compartments with fire alarm systems connected to\na 24/7 security centre.  These stations must also be positioned close to\nentry and exit points or on floors +1 or -1.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "Preventive Fire Protection\n● Special Rules for Fast Charging: Charging stations with power greater\nthan 22kW are only permitted under specific conditions: single-floor car\nparks on street level with a maximum area of 250 sqm, in fire\ncompartments with automatic extinguishers and 24/7 security centre\nnotifications, or in fire compartments with fire alarm systems connected to\na 24/7 security centre.  These stations must also be positioned close to\nentry and exit points or on floors +1 or -1.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "152. 2.  Belgium\nCode of Good Practice - Fire Safety for Electric Vehicles in Parking\nAreas\n● Type: Guidelines by Fire Forum, NGO striving to improve fire safety by\nstimulating dialogue, the dissemination of knowledge and information, and\nthe promotion of quality and innovation. \n● Scope: The Belgian guidelines are applicable at the national level.  They\nprovide specific regulations for the fire safety of electric vehicles (EVs) and\ntheir recharging points within parking areas across Belgium.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Technical Fire Protection\n● Fire Extinguishing Systems: Evaluations for sprinkler systems in parking\nlots, especially for existing structures, considering the size of the parking,\nthe number of EVs, and the presence of recharging points. \n● Ventilation and Smoke Extraction: Guidelines for effective smoke and\nheat extraction systems, with a focus on preventing explosive or toxic\natmospheres.  Recommendations for ventilation openings at each parking\nspace equipped with a charging station.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Mode 4 charging stations require\ntechnical justification and local fire department approval. \n● Installation and Maintenance: The installation of EV charging stations\nmust comply with specific electrical regulations.  Regular inspections and\na logbook for initial and periodic inspections are advised. \n162. 3.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Czechia\nFire Safety of Buildings – Electromobility - Guidelines from the\nMinistry of the Interior - General Directorate of the Fire Rescue\nService of the Czech Republic, April 2021\nType: National guidelines addressing fire safety in relation to electric vehicles\n(EVs) and recharging points. \nScope of Application: National level with specific provisions for EVs and\nrecharging points within parking structures.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "on construction requirements\n● Type: National Decree on Construction Requirements\n● Scope: National level legislation focusing on construction requirements,\nwith specific provisions related to electric vehicle (EV) recharging points. \nPreventive Fire Protection\n● Type of EV Recharging Points: The decree outlines various types of\nelectric vehicle recharging points.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "7 kVA, reserved for\nL-category electric vehicles, need to have either a type 3 A vehicle socket\nconnection for mode 3 charging or a socket for charging modes 1 or 2.  For\npublicly accessible AC charging points with an apparent power of more\nthan 3. 7 kVA, reserved for L-category electric vehicles, they must be\nequipped with at least a type 2 socket or vehicle connection. \n2. 4.  France\nBuilding code established by the order of June 25, 1980, further\ndetailed by the order of May 9, 2006.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Type: Building code by the French Ministry\n● Scope of Application: National level, with explicit specifications related\nto electric vehicles and recharging points.  This regulation concerns\nbuilding open to the public. \n18Structural Fire Protection\n● Compartmentalisation: Parking lots are divided into compartments not\nexceeding 3000 square meters, extendable to 6000 square meters with\nsprinkler systems.  Compartment walls require a minimum fire-stop rating\nof one hour.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "Specific conditions are\noutlined for the installation of fast charging points, emphasising the need\nfor isolation and fire-resistant barriers. \n● Maintenance and Inspection: Regular inspection schedules for electrical\ninstallations and recharging points, emphasising operational safety and\ncompliance with national and international standards.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Technical Fire Protection\n● Fire Detection and Suppression Systems: Recommendations for\ninstalling advanced fire detection systems and suppression equipment,\nparticularly in areas housing EV charging stations. \n● Ventilation and Smoke Control: Emphasises the importance of\nadequate ventilation systems and smoke extraction measures, tailored to\nthe unique challenges posed by EV battery fires.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Scope of Application: National level, covering the installation of charging\ndevices at vehicle service facilities, publicly accessible recharging points,\nand parking facilities in public and private buildings. \nStructural Fire Protection\n● Fire Compartmentalisation: Provisions apply for category B hazardous\nareas (electric vehicle charging areas), ensuring compliance with fire\nprotection measures as outlined in related regulations.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Italy\nGuidelines for the installation of electric vehicle charging\ninfrastructure\n● Type: Guidelines by the Italian firefighters\n● Scope of Application: National level, including specific guidelines for the\ninstallation and management of EV recharging points. \nStructural Fire Protection\n● Italy's guidelines focus on fire risk assessment and mitigation in spaces\nwhere EV recharging points are installed.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "While there are general rules for\nplaces at risk of fire, the charging of electric vehicles is not considered to\nsignificantly change the risk level.  The guidelines emphasise the\nimportance of complying with fire prevention controls in places subject to\nsuch procedures. \nTechnical Fire Protection\n● Fire Extinguishers and Systems: Mandates portable fire extinguishers\nat EV recharging points, suitable for electrical systems.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Emergency Controls: Charging stations must have an emergency\nrelease control device for electrical isolation in emergencies. \n● Installation Safety: Specific recommendations are made to avoid\ninstallation in areas with flammable gases or vapours. \nOrganisational Fire Protection\n● The guidelines stipulate regular checks and documentation following any\nchanges or modifications to the charging station, ensuring ongoing\ncompliance with fire safety standards.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "24Organisational Fire Protection\n● Safety Recommendations: Guidelines for slip-resistant vehicle and\npedestrian walkways to enhance safety in the parking environment. \nPreventive Fire Protection\n● EV Recharging Points: Allows for normal and rapid recharging in charge\nmodes 2, 3, and 4, using standards-compliant terminals and cables. \nSpecific rules for electrical hazard management near charging stations\nand requirements for power supply cutoff by fire detection systems in case\nof alarms. \n2. 9.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Norway\nRegulation on low-voltage electrical installations\n● Type: Regulation issued by the Norwegian Ministry of Justice and Public\nSecurity\n● Scope of Application: National level, including specific guidelines for the\ninstallation and safety of electric vehicle (EV) recharging points in parking\nareas.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The installation must ensure\naccessibility for maintenance, repair, and testing without danger. \n2. 10.  Poland\nIn Poland, different legislation/guidelines/building codes cover fire safety of EV\nrecharging points in covered/above ground parking areas. \nRegulation of the Minister of Energy on the Technical Requirements\nfor Charging Stations and Charging Points\n● Scope: National level, specific to EV charging points.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Slovakia\nATN_010 Safety aspects of electromobility - Garages in residential\nand non-residential buildings with parking spaces with infrastructure\nfor electric cars\n● Type: Guidelines on electromobility by the Ministry of the Interior of the\nSlovak Republic, the Presidium of the Fire and Rescue Corps\n● Scope of Application: National, focusing on fire safety in relation to\nelectric vehicle charging in garages.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "In collective and row garages, parking spaces and charging stations for\nEVs are advised to be equipped with automatic extinguishing systems with\nsimilar water supply requirements.  Systems must be able to operate for a\nminimum of 120 minutes. \n● Smoke and Heat Extraction Systems: Garages are recommended to be\nequipped with a system for the extraction of heat and combustion\nproducts, using forced ventilation to ensure a minimum of 10 air\nexchanges per hour.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "If natural cross-ventilation with at least 5% floor\ncoverage is not available, this mechanical system becomes essential. \n● Fire Detection and Alarms: In garages with more than 20 parking spaces\nfor EVs and charging stations, the installation of an electric fire alarm\nsystem is recommended, especially for smaller garages with fewer than\n50 vehicles.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Isolation Switches: Charging stations should be equipped with an\nisolation switch to cut power in case of emergencies, preventing the risk\nof electric shock for firefighters and other emergency responders. \n28Organisational Fire Protection\n● Personnel Training: Stresses the importance of training for staff on\nemergency procedures specific to EV fires, including the use of fire\nextinguishers and power isolation.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Emergency Preparedness: Advises on the development of\ncomprehensive emergency plans that incorporate the unique challenges\nposed by electric vehicles. \nPreventive Fire Protection\n● Installation and Maintenance: Dictates strict guidelines for the\ninstallation of charging points, emphasising regular maintenance and\nsafety inspections. \n● Location Guidelines: Provides specific recommendations for the\nplacement of charging stations to facilitate emergency access and\nevacuation.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Emergency Preparedness: Advises on the development of\ncomprehensive emergency plans that incorporate the unique challenges\nposed by electric vehicles. \nPreventive Fire Protection\n● Installation and Maintenance: Dictates strict guidelines for the\ninstallation of charging points, emphasising regular maintenance and\nsafety inspections. \n● Location Guidelines: Provides specific recommendations for the\nplacement of charging stations to facilitate emergency access and\nevacuation.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "ATN® 010 - Safety Aspects of Electromobility: Garages in Residential\nand Non-Residential Buildings with Parking Spaces Equipped with\nInfrastructure for Electric Vehicles\n● Type: ATN® 010 is a non-binding technical standard offering guidelines\nfor the design, execution, and control of technical activities related to\nelectric vehicle (EV) infrastructure in garages.  While non-binding, it serves\nas a framework for voluntary compliance and can be adopted within\ncontracts or competition tenders.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Scope: National guidelines focusing on fire safety for garages that provide\ninfrastructure for electric vehicle charging, applicable to both residential\nand non-residential buildings. \nStructural Fire Protection\n● Fire Compartments: The guidelines recommend separating fire\ncompartments in parking areas using fire-resistant walls, doors, gates, or\nfree spaces.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Isolation Switches: Each charging station should include an emergency\nshutdown mechanism, allowing immediate disconnection in case of\nmalfunction or hazard.  The shutdown should be accessible to both users\nand emergency responders, with clear labelling. \nOrganisational Fire Protection\n● Personnel Training: Technicians working on EV charging stations must\nfollow strict safety protocols, with only certified personnel authorised to\nperform repairs or maintenance.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Preventive Fire Protection\n● Max Number of Recharging Points: For new and renovated non-\nresidential buildings, one charging point is required for every five parking\nspaces.  This can present challenges for building electrical infrastructure,\nespecially in larger garages. \n● Location of Recharging Points: Charging stations should be located as\nclose as possible to entrances or exits.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Installing charging infrastructure\non the second or lower underground floors is not recommended due to the\ndifficulty of fire intervention. \n● Inspection and Maintenance: Charging stations must undergo regular\npreventive inspections.  Inspections should include checks on electrical\nwiring, functionality, and safety systems.  Any corrective actions must be\ndocumented, with retesting performed after repairs. \n302. 13.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Spain (Barcelona)\nTechnical guide \"Electric vehicle recharging installations\"\n● Type: Guidelines developed by the firemen of Barcelona. \n● Scope of Application: Local level, specifically tailored to Barcelona, with\nexplicit guidelines for EV recharging points within the city.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Inspection and Maintenance: Highlights the importance of initial\ninspections and ongoing maintenance to ensure the safe operation of\nEVSEs, governed by specific regulations. \n312. 14.  Switzerland\nGuidelines on lithium-on batteries\n● Type: Guidelines developed by Swiss association of insurers\n● Scope of Application: National level, with clear specifications linked to\nelectric vehicles and recharging points.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Organisational Fire Protection\n● The Swiss guidelines emphasise the need for a fire protection safety\nofficer in larger buildings and complexes.  These officers are responsible\nfor ensuring fire safety and compliance with construction and equipment\nfire protection requirements. \n● Electrical installations and charging stations: They must be installed by a\nprofessional Instructions for installation and use of charging stations must\nbe followed.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Terminals, cables, sockets, must be sufficiently large for the\nmaximum reference power required by the vehicles and must be designed\nin compliance with the low-voltage installation standard SN 411000\n(NIBT); SIA 2060 \"Infrastructure for electric vehicles in buildings\". \n● Firefighter water supply and access: The firefighter elevator is required for\nhigh level building only or according to the access concept; the firefighter\nelevator is not an obligation for a standard parking lot.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "IFV Guideline Fire safety of indoor car parks accommodating\nelectrically powered vehicles\n● Type: Guidelines by IFV now the Netherlands Institute for Public Safety\n(NIPV)\n● Scope of Application: National level, providing specific fire safety\nregulations for parking garages that accommodate electric vehicles (EVs)\nand recharging points.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Isolation Switch for Power Supply: A facility must be available to switch\noff charging points, including a manual stop button, to ensure there is no\nelectrical voltage during a fire.  Various methods for switching off power are\nsuggested, including vandalism-resistant emergency buttons and\nemergency switches/buttons on or near each charging station. \nOrganisational Fire Protection\n● Safety recommendations: Residents and users should be given clear\ninstructions on what to do in case of a fire.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Preventive fire protection\n● Location of recharging points: Charging points should be located as\nclose as possible to the entrances and exits of the garage, preferably at\nstreet level, and concentrated in specific locations within the parking\ngarage.  Charging points must be mode 3 or mode 4.  Collision protection\nshould be installed in front of the charging stations or positioned to prevent\ncollisions.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "United Kingdom\nRC59 by FPA: Recommendations for fire safety when charging\nelectric vehicles. \n● Type: Guidelines developed by the UK Fire Protection Association (FPA)\n● Scope of Application: National level, with specifications directly linked to\nelectric vehicles or recharging points.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Structural Fire Protection\n● Fire-Resistant Materials and Construction: Although not explicitly\ndetailed in the quoted sections, the overarching guidelines like RC59\ntypically recommend the use of fire-resistant materials in the construction\nof EV charging areas.  This would involve specifications for the structural\nintegrity of charging stations, ensuring they are built to withstand fire for a\nspecified period, thereby preventing the spread of fire within a facility.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Preventive Fire Protection\n● Location and Maintenance of Recharging Points: Charging points\nshould ideally be located outside, with clear differentiation for rapid\ncharging points due to associated hazards.  Maintenance to be performed\nby competent electricians. \n● Standardisation and Safety Measures: Design considerations for\ndisabled users, clear marking of vehicle parking bays, and comprehensive\nfire risk assessments to consider the risk from charging electric vehicles.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Measures to prevent flammable material storage within charging areas\nand maintenance protocols for faulty chargers. \nRisk Control Guide by RSA\n● Type: Guidelines drafted by UK insurers\n● Scope of Application: National, with specific attention to electric vehicles\nand recharging points. \n40Structural Fire Protection\n● Fire Compartments: Advocates for a minimum of 120 minutes fire\nresistance for all parts of car parks, including structural members and\nseparation between vehicle groups.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Emergency Power Cut-off: Stresses the need for easily accessible\nemergency power cut-off mechanisms for EV charging stations to quickly\nisolate electrical supply in the event of a fire, minimising the risk of\nelectrical fires spreading. \nOrganisational Fire Protection\n● Emergency Response Planning: Requires the development of specific\nemergency response plans for EV fires, including evacuation protocols\nand the role of staff in emergency management.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Training for staff on the\nuse of fire safety equipment and procedures for safely handling EV fires is\nalso emphasised. \n● Information Sharing with Fire Services: Encourages the sharing of\ndetailed plans and information about the location and operation of EV\ncharging stations with local fire services to aid in emergency planning and\nresponse.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Preventive Fire Protection\n● Regular Inspections and Maintenance: Mandates regular inspections\nand maintenance of EV charging stations to ensure they remain in good\nworking order and compliant with fire safety standards.  This includes the\n42inspection of electrical connections and the physical condition of charging\npoints. \n● Risk Assessments: Recommends conducting detailed risk assessments\nthat consider the specific hazards associated with EV charging in covered\ncar parks.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "It is worth noting, however, that while these risks associated with battery packs\nexist, data from the Nederlands Instituut Publieke Veiligheid (NIPV) shows that\nnearly half of electric vehicle fires do not involve the battery packs. 28\nThermal runaway is one of the primary risks associated with lithium-ion batteries. \nIt occurs when a lithium-ion cell enters an uncontrollable, self-heating state\nthrough an exothermic reaction.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "If this heat is not dissipated quickly,\nthe battery cell can enter thermal runaway. \nFlood damages Battery electric vehicles adhere to rigorous standards (UNECE Regulation n°100\n- Revision 3, with amendments effective from 14 September 2017) to ensure\nminimum protection against solid particles and water.  However, damaged battery\npacks, such as those from collisions, pose a risk, especially of saltwater entering\nand potentially causing short-circuits between cells.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "Mode 4 Connection of a BEV to an AC or direct ● Dedicated power socket incorporating\ncurrent (DC) supply network utilising a DC charge monitoring;\nBEV supply equipment, with a control pilot ● Dedicated cable;\nfunction that extends from the DC BEV ● Residual current device included. \nsupply equipment to the BEV. \nNote: This is a typical installation for “fast\ncharging”, “ultrafast charging”, “rapid\ncharging” and similar terms.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The absence of inspections can lead to substandard\ninstallations, particularly if recharging points are installed by unqualified\npersonnel, thereby increasing the risk of fire.  With the growing demand for\nrecharging stations and a shortage of skilled workers, the pressure to deploy\ninstallations rapidly is intensifying.  This urgency can strain the workforce and\ncompromise the quality of installations.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "34\nWhile the risk of fires during the installation of recharging stations is relatively low,\nelectrical safety risks for workers remain a concern.  These risks, closely linked to\nfire hazards, can arise from poor installation practices.  In Europe, nearly 47% of\naccidental residential fires are caused by electrical issues. 35 Improperly installed\nrecharging stations, particularly those connected to building or grid electrical\nsystems by unqualified workers, heighten fire risks.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "36 It is crucial that\noperators of recharging stations conduct maintenance and inspections using fully\nqualified personnel.  Regular checks help mitigate risks associated with aging\nequipment and ensure the long-term safety of the installation. \n3. 3.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Moreover, the use of proper recharging\ninfrastructure is critical.  In the absence of designated recharging stations, BEV\ndrivers may resort to non-compliant equipment, which can significantly elevate\nfire risks. 40 Addressing these challenges, along with implementing necessary fire\nprevention measures, places financial burden on operators and building owners\nas they adapt to the evolving automotive landscape. \n3. 5.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "54Water and Soil ● The chemicals and heavy metals present No\nPollution in the batteries of electric vehicles can\nseep into the soil and groundwater in the\nevent of a fire (due to extinguishing\nwaters), thus causing potentially\ndangerous pollution. \nImpact on ● If a fire occurs in or near natural spaces, No\nWildlife and it can have a direct impact on local wildlife\nFlora and flora, disrupting ecosystems and\ndestroying habitats.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Regulatory compliance: Inspections ensure that installations comply with\napplicable Standards and Regulations. \nBeyond electrical issues alone, mechanical protections of the recharging stations\nshould be considered, like bumpers or steel bars.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "45 Furthermore, identification of\nthe exact location, type and status of the recharging points in a covered parking\nlot through information technologies should also help operators of covered\nparking lots and the emergency services about the nature of fire and how to\nmanage it. \nWhen covered parking lots are equipped with Mode 3 recharging stations, they\nshould be equipped with an emergency power cut-off to isolate all charging\nfacilities in the event of a fire emergency.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Standards\nIn Europe, harmonised product standards cover all safety requirements, including\nrequirements for protection against fire risk such as non-flame propagating\n45 Technical guide \"Electric vehicle recharging installations\" of the firemen of Barcelona. \n60products in case of cable management systems.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The following is a non-\nexhaustive list of examples of applicable product standards:\n● EV supply stations according to EN IEC 61851-1:201946 together with the\nrelevant parts of EN IEC 61439 series and, where applicable, EN IEC\n62208:2023. \n● EV supply stations according to EN IEC 61851-23:2014 for DC charging\nstations (mode 4). \n● The standard of DC charging station (EN IEC 61851-23:2014. \n● Plugs and socket outlets according to EN IEC 62196 series.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "The following is a non-\nexhaustive list of examples of applicable product standards:\n● EV supply stations according to EN IEC 61851-1:201946 together with the\nrelevant parts of EN IEC 61439 series and, where applicable, EN IEC\n62208:2023. \n● EV supply stations according to EN IEC 61851-23:2014 for DC charging\nstations (mode 4). \n● The standard of DC charging station (EN IEC 61851-23:2014. \n● Plugs and socket outlets according to EN IEC 62196 series.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "In general, all recharging infrastructure must be safeguarded against mechanical\ndamage caused by vehicles.  In order to do so, they could be positioned above\nground level on a raised platform or protected by curbs, bollards, or metal\nbarriers.  Additionally, the use of extension cables for BEV recharging in public\nareas should not be allowed. \n46 EN IEC 61851—1:2019.  Electric vehicle conductive charging system—part 1: general\nrequirements.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Manufacturers’ emergency response guides can provide sufficient vehicle-\nspecific information to firefighters for disconnecting an electric vehicle’s high-\nvoltage system. 49 In order to mitigate the risks of stranded energy at the time of\nemergency incidents, electric vehicle manufacturers should use the International\nOrganization for Standardization standard 17840 template to present emergency\nresponse information.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "50 For an effective response from the firefighters at the time\nof a fire incident, the manufacturers’ quick guide should include the following\ninformation51:\n● Fighting high-voltage lithium-ion battery fires;\n● Mitigating thermal runaway and the risk of high-voltage lithium-ion battery\nreignition;\n● Mitigating the risks associated with stranded energy in high-voltage\nlithium-ion batteries, both during the initial emergency response and\nbefore moving a damaged electric vehicle from the scene; and\n● Safely storing an electric vehicle that has a damaged high-voltage lithium-\nion battery.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "The fire resistance test outlined in Annex 8E of UNECE Regulation No.  100 sets\ntechnical requirements for the safety assessment of electric vehicles (EVs), which\nshould be conducted by the OEMs.  The goal of this test is to evaluate the ability\nof the Rechargeable Energy Storage System to withstand external fire exposure. \nMeeting this requirement ensures that the driver and passengers have sufficient\ntime to safely exit the vehicle.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "The good practice from France57 suggests that the structures within the\nright-of-way of the electric recharging station, and up to 8 meters beyond, must\nhave a minimum fire resistance rating of R 60, with the upper floor rated at REI\n60.  For two-level car parks, the structure should have an R 60 rating, and the\nintermediate floors must be REI 60.  In other cases, the structure must have an R\n90 rating, with floors rated at REI 90.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "61 Furthermore, the\nLuxembourgish regulation requires that the fire detection system must disconnect\nthe power supply to these charging stations when an alarm is triggered. 62 A push\nbutton that activates the parking lots general alarm and disconnects the power to\nthe recharging stations should be installed near the recharging stations. 63 In\npublic parking, an emergency stop button for the recharging stations should be\nlocated in the parking lot’s surveillance room. 64\n4. 3.  Evacuation\n4. 3.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Structural fire measures enabling the evacuation of car parks\nVentilation system\n60 (Fire Protection Association, 2023)\n61 Technical guide \"Electric vehicle recharging installations\" of the firemen of Barcelona\n62 (l’Inspection du travail et des mines et le Service Incendie et Ambulance de la Ville de\nLuxembourg, 2017)\n63 (l’Inspection du travail et des mines et le Service Incendie et Ambulance de la Ville de\nLuxembourg)\n64 (l’Inspection du travail et des mines et le Service Incendie et Ambulance de la Ville de\nLuxembourg)\n65In covered car parks, the presence of various ventilation systems is paramount\nfor evacuating smoke in the event of a vehicle fire.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Existing practices\nAs an existing practice, the Slovakian guidelines recommend having no more\nthan three adjacent parking spaces for EVs and charging stations, with the next\nsuch group being apart from each other. 70 Additionally, it is a good practice that\nthe recharging infrastructure is placed further away from escape routes. 71\n4. 4. 2.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "72 Technical guide \"Electric vehicle recharging installations\" of the firemen of Barcelona\n73 Technical guide \"Electric vehicle recharging installations\" of the firemen of Barcelona\n68moved outside the covered car park for monitoring and further extinguishing. 74\nRemoving the vehicle is not the duty of the local fire and rescue service, so it\nmight be necessary to arrange a contract with a car removal company.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Although it uses less water than a sprinkler system, it is usually more expensive\nin this application than sprinklers because it always needs a dedicated pump and\n74 Technical guide \"Electric vehicle recharging installations\" of the firemen of Barcelona\n75 Technical guide \"Electric vehicle recharging installations\" of the firemen of Barcelona\n76 (RSA, 2022)\n77 (RSA)\n78 (Fire Protection Association, 2023)\n69tank.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "On the issue of stranded energy and the possibility of reignition of a battery, if a\nhigh-voltage battery is damaged, energy may remain inside any undamaged\nbattery modules and cells, with no path to discharge it.  That stranded energy can\ncause a high-voltage battery to reignite multiple times after firefighters extinguish\nan electric vehicle fire.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "However, the high-voltage\nbattery system can be damaged, preventing access to the battery management\nsystem or to the discharge ports. 84\nThe following methods (non-exhaustive) are used by firefighters currently:\n83 (ARUP, 2023)\n84 (Hynynen et al. , 2023)\n721.  Using different kind of blankets for covering a fire source in order to avoid\nthe fire spread out to surrounding vehicles or infrastructure\n2.  Using water or other standard agents for electric vehicle fires.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "If airbags have been deployed, further diagnostic steps should be\nconducted to assess the integrity of the high-voltage system, such as measuring\nthe battery temperature.  SAE J2990 recommends two barrier methods for an\nelectric vehicle during storage:\n● Separate the vehicle from combustibles and structures by 50 feet on all\nsides, or\n● Create a barrier of earth, steel, concrete, or solid masonry around the\nvehicle.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Furthermore, the NFPA recently added to its website a training video for\nfirefighters, titled “Stranded Energy—How Little You Know Might Shock You. ”89\nA video prepared for the 2019 North American Heavy Rescue Symposium by the\nNFPA, and others demonstrates best practices for responding to electric vehicle\nfires. 90\n88 (CTIF, 2021)\n89 NFPA Alternative Fuel Vehicle Training for the fire service.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Signage: Recharging station areas in parking lots must feature visible and\nappropriate signage. \n● Staff Training and Emergency Response: Security personnel and other\nstaff should be informed about the location of recharging areas, power\nisolation procedures, and alarm activation steps.  Staff must be trained to\nsafely operate vehicle chargers and report damaged equipment promptly. \nDefective chargers should be isolated, marked with warning notices, and\nupdated as \"offline\" in relevant apps.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "● Fire Risk Management: Parking lots should not store combustible\nmaterials or flammable products, refuel vehicles, smoke, or allow open\nflames. \n● Measures to consider at the installation phase of recharging\ninfrastructure:\no Location: Install recharging stations near the entrance or exit of\nunderground garages to facilitate quick access for emergency\nresponders.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "o Qualified Installation: Only specialised, registered electricians should\ninstall charging devices and associated power supplies to comply with\nlegal and technical standards.  Non-compliant installations may void\ninsurance coverage. \no Protection and Safety:\n▪ Protect charging stations from collisions or mechanical damage.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "o Minimise Combustible Materials: Limit the use of flammable\nmaterials or critical infrastructure near charging stations.  Walls should\nhave adequate fire resistance (minimum two hours), and passive\nbarriers should be installed to contain fire. \no Risk Modelling: Recharging infrastructure manufacturers should\nenhance risk modelling and battery performance monitoring to mitigate\npotential hazards.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ")\n● Users should also frequently check the charging cables and charging\ndevices for damage, for instance by carrying out a visual inspection each\ntime before charging.  Defective connectors and cables should be replaced\nimmediately. \n● Only charging cables approved by the manufacturers and specifically\nintended for charging electric vehicles may be used.  Standard household\nextension cables, multiple socket strips, or adapters for charging cannot\nbe used for recharging BEVs.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Damaged, fire exposed, submerged or under recall electric vehicles or\nvehicles in which the battery may be damaged could pose a particular fire\nhazard and should therefore never be parked in any parking structure. \n● Having a system in place that informs in case of overcharge on the electric\nline connected to the wall-charger could help prevent fires. \n795. 3.  Recommendations for public stakeholders\n5. 3. 1.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "● Maintaining a safe distance, using 1000-volt gloves near batteries and high\nvoltage circuits, is crucial due to the potential exposure of live components\nduring physical damage and fires. \n● Using water or other standard agents for BEV fires.  However, a high\nvolume of water is one of the solutions to cool-down the high voltage\nbatteries.  Water does not pose an electrical hazard to firefighters in an\nelectric vehicle fire.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "nl/wp-\ncontent/uploads/2024/05/20240416-NIPV-Factsheet-Annual-report-2023-\nIncidents-with-alternative-fuel-vehicles. pdf\n• ARUP.  (2023).  T0194 – Covered car parks - fire safety guidance for\nelectric vehicles. \nhttps://assets. publishing. service. gov. uk/media/65bb7b5ccc6fd600145dbe\n1a/covered-car-parks-fire-safety-guidance-for-electric-vehicles.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Retrieved December 11, 2024, from\nhttps://www. evfiresafe. com/ev-battery-fire-data\n83• Fireforum.  (2023, October 2).  Code de bonne pratique Sécurité Incendie -\nThème: Véhicules Electriques dans les parkings. \nhttps://www. fireforum. be/fr/reglementation/cbp-vhicules-electriques-dans-\nles-parkings\n• Fire Protection Association.  (2023).  RC59: Recommendations for fire\nsafety when charging electric vehicles.  https://www. thefpa. co. uk/advice-\nand-guidance/free-\ndocuments.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": ", Quant, M. , Pramanik, R. , Anna, O. , Ying Zhen, L. , Arvidson,\nM. , & Andersson, P.  (2023).  Electric Vehicle Fire Safety in Enclosed\nSpaces.  RISE.  https://ri. diva-\nportal. org/smash/get/diva2:1744882/FULLTEXT01. pdf\n• IEA.  (2023).  Global EV Outlook 2023.  IEA. \nhttps://www. iea. org/reports/global-ev-outlook-2023/executive-summary\n• Kang, S. , Kwon, M. , Yoon Choi, J. , & Choi, S.  (2023).  Full-scale fire testing\nof battery electric vehicles.  Applied Energy, 332, 120497.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Safety concerns as unqualified\nelectricians found to be installing EV charge points.  Engineering and\nTechnology Magazine.  https://eandt. theiet. org/2022/10/07/safety-\nconcerns-unqualified-electricians-found-be-installing-ev-charge-points\n• Mohd, & César Martín-Gómez.  (2023).  Electric vehicle fire risk\nassessment framework using Fault Tree Analysis.  Open Research\nEurope, 3, 178–178.  https://doi. org/10. 12688/openreseurope. 16538.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "1\n• Myths and facts about fires in battery electric vehicles.  (2022).  In LASH\nFIRE.  Legislative Assessment for Safety Hazard of Fire and Innovations\nin Ro-ro ship Environment.  https://lashfire. eu/media/2022/09/2022-\n08_Facts_and_Myths. pdf\n• National Transportation Safety Board of the United States.  (2020).  Safety\nRisks to Emergency Responders from Lithium-Ion Battery Fires in Electric\n84Vehicles (pp.  viii, ix).  https://www. ntsb. gov/safety/safety-\nstudies/Documents/SR2001.",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Risk Control Guide: Electric Vehicle Charging and Enclosed\nCar Parks.  https://static. rsagroup. com/rsa/commercial-insurance-\nproducts/risk-consulting/electric-vehicle-charging-enclosed-car-parks. pdf\n• Sergei Levchik, Hirschler, M. , & Weil, E.  (2011).  Practical Guide to Smoke\nand Combustion Products from Burning Polymers (p.  240).  Smithers\nRapra. \n• Technical guide \"Electric vehicle recharging installations\" of the firemen of\nBarcelona. \n• Troitzsch, J.  H.  (2022).",
+    "source": "guidance of fire safety for electric vehicles parked-MI0125004ENN.pdf"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Alternative Fuels Data Center: Charging Electric Vehicles at Home Charging Electric Vehicles at Home Most drivers of electric vehicles (EVs)—which include all-electric vehicles and plug-in hybrid electric vehicles (PHEVs)—charge their vehicles overnight at home using AC Level 1 or AC Level 2 charging equipment.  Residential equipment is frequently installed in garages, but outdoor installation and use are also safe, even if the vehicle is being charged in the rain.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_home.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "7 per kWh and the vehicle consumes 27 kWh to travel 100 miles, the cost per mile is about $0. 03.  If electricity costs ¢10. 7 per kilowatt-hour, charging an EV with a 200-mile range (assuming a fully depleted 54 kWh battery) will cost about $6 to reach a full charge.  To compare the fueling costs of individual models of conventional and electric vehicles, see the Vehicle Cost Calculator.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_home.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Note that actual residential electricity costs will depend on the type of equipment installed, as well as the time of day and length of time the charging station is used.  Some utilities offer residential time-of-use rates or other rate incentives for charging infrastructure owners.  To learn more about potential cost savings from enrolling in time-of-use rates, see the report: Levelized Cost of Charging Electric Vehicles in the United States.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_home.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Note that actual residential electricity costs will depend on the type of equipment installed, as well as the time of day and length of time the charging station is used.  Some utilities offer residential time-of-use rates or other rate incentives for charging infrastructure owners.  To learn more about potential cost savings from enrolling in time-of-use rates, see the report: Levelized Cost of Charging Electric Vehicles in the United States.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_home.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Vehicle Trips by Length (miles) More Electricity Data | All Maps & Data Case Studies Multifamily Housing Procurement Case Study: Green Rock Apartments More Electricity Case Studies | All Case Studies Publications At A Glance: Electric Vehicles Electric Vehicle Basics More Electricity Publications | All Publications Tools Vehicle Cost Calculator Electricity Sources and Emissions Electric Vehicle Charging Station Locations All Tools.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_home.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Vehicle Trips by Length (miles) More Electricity Data | All Maps & Data Case Studies Multifamily Housing Procurement Case Study: Green Rock Apartments More Electricity Case Studies | All Case Studies Publications At A Glance: Electric Vehicles Electric Vehicle Basics More Electricity Publications | All Publications Tools Vehicle Cost Calculator Electricity Sources and Emissions Electric Vehicle Charging Station Locations All Tools.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_home.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Alternative Fuels Data Center: Charging Electric Vehicles in Public Charging Electric Vehicles in Public General public charging uses Level 2 (shown here) or DC fast charging.  For fleet drivers and consumers to charge their electric vehicles (EVs)—which include all-electric vehicles and plug-in hybrid electric vehicles (PHEVs)—in public, charging stations must be deployed and integrated based on local community needs.  Charging Stations Public charging stations make EVs more convenient.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Alternative Fuels Data Center: Charging Electric Vehicles in Public Charging Electric Vehicles in Public General public charging uses Level 2 (shown here) or DC fast charging.  For fleet drivers and consumers to charge their electric vehicles (EVs)—which include all-electric vehicles and plug-in hybrid electric vehicles (PHEVs)—in public, charging stations must be deployed and integrated based on local community needs.  Charging Stations Public charging stations make EVs more convenient.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "Alternative Fuels Data Center: Charging Electric Vehicles in Public Charging Electric Vehicles in Public General public charging uses Level 2 (shown here) or DC fast charging.  For fleet drivers and consumers to charge their electric vehicles (EVs)—which include all-electric vehicles and plug-in hybrid electric vehicles (PHEVs)—in public, charging stations must be deployed and integrated based on local community needs.  Charging Stations Public charging stations make EVs more convenient.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Although the majority of EV owners charge at home, public charging and workplace charging stations can increase the daily useful range of all-electric vehicles and reduce the amount of gasoline consumed by PHEVs.  General public charging uses Level 2 or DC fast charging.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Although the majority of EV owners charge at home, public charging and workplace charging stations can increase the daily useful range of all-electric vehicles and reduce the amount of gasoline consumed by PHEVs.  General public charging uses Level 2 or DC fast charging.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "How does fast charging work for electric vehicles?",
+    "input": "",
+    "output": "Although the majority of EV owners charge at home, public charging and workplace charging stations can increase the daily useful range of all-electric vehicles and reduce the amount of gasoline consumed by PHEVs.  General public charging uses Level 2 or DC fast charging.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Level 1 and 2 charging stations should typically be located where vehicle owners are highly concentrated and parked for long periods of time, such as shopping centers, airports, hotels, government offices, and other businesses.  Public charging should also be located along highway corridors or at urban charging hubs.  Learn about charging infrastructure development and operation and maintenance, and read a case study on public charging station procurement.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "For more information about infrastructure costs and charging infrastructure development, refer to Costs Associated With Non-Residential Electric Vehicle Supply Equipment and a review of charging infrastructure costs by the International Council on Clean Transportation.  Fleet Charging Fleets that choose to incorporate EVs into their operations must consider several factors when planning for charging stations.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "For more information about infrastructure costs and charging infrastructure development, refer to Costs Associated With Non-Residential Electric Vehicle Supply Equipment and a review of charging infrastructure costs by the International Council on Clean Transportation.  Fleet Charging Fleets that choose to incorporate EVs into their operations must consider several factors when planning for charging stations.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Peak demand, duty cycles, garaging locations, vehicle models, and availability of off-site public charging stations can all factor into decisions about the number, location, and type(s) of charging units.  City planners, fleet managers, and utilities can work together with installers to determine the best charging solutions.  Fleets around the country are adopting EVs for light-, medium-, and heavy-duty vehicle applications.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "These codes are based on national or international standards, are adopted at the state or local level, and are enforced at the local level through permitting and inspection processes.  Parking Ordinance: Parking ordinances are used to manage public enforcement of parking policies and apply to publicly accessible EV charging stations, including municipal lots, privately operated parking lots or garages, and on-street locations.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "Zoning Ordinance: Zoning ordinances regulate land use, including what can be built on a property.  In the context of EV readiness, local governments can use zoning ordinances to control where EV charging stations are allowed or prohibited.  Zoning can also be used to incentivize or require EV charging stations.  For more information, refer to the Building Codes, Parking Ordinances and Zoning Ordinances page.  Related Content Maps & Data Electric Vehicle Registrations by State U. S.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Zoning Ordinance: Zoning ordinances regulate land use, including what can be built on a property.  In the context of EV readiness, local governments can use zoning ordinances to control where EV charging stations are allowed or prohibited.  Zoning can also be used to incentivize or require EV charging stations.  For more information, refer to the Building Codes, Parking Ordinances and Zoning Ordinances page.  Related Content Maps & Data Electric Vehicle Registrations by State U. S.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "Public and Private Electric Vehicle Charging Infrastructure Electric Vehicle Charging Ports by State More Electricity Data | All Maps & Data Case Studies 30 Years of Clean Cities Part 1: Seattle: An Early Electric Vehicle Adopter, Still Leading the Charge Part 2: Seattle Moving Toward a 100% Electrified Municipal Fleet More Electricity Case Studies | All Case Studies Publications Recommendations for Minimum Required Error Codes for Electric Vehicle Charging Infrastructure The 2030 National Charging Network: Estimating U.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "What information is available about charging stations?",
+    "input": "",
+    "output": "S.  Light-Duty Demand for EV Charging Infrastructure Electric Vehicle Charging Infrastructure Trends from the Alternative Fueling Station Locator More Electricity Publications | All Publications Tools EVI-X Toolbox Charging Hub Economic & Costing Tool Electric Vehicle Charging Station Locations All Tools.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  },
+  {
+    "instruction": "Tell me about electric vehicles and charging.",
+    "input": "",
+    "output": "S.  Light-Duty Demand for EV Charging Infrastructure Electric Vehicle Charging Infrastructure Trends from the Alternative Fueling Station Locator More Electricity Publications | All Publications Tools EVI-X Toolbox Charging Hub Economic & Costing Tool Electric Vehicle Charging Station Locations All Tools.",
+    "source": "https://afdc.energy.gov/fuels/electricity_charging_public.html"
+  }
+]
